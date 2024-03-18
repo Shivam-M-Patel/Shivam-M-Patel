@@ -12,7 +12,7 @@
 
 <br/>
 
-## - 🙌 I'm currently open to: **Software Development Engineer roles**
+- 🙌 I'm currently open to: **Software Development Engineer roles**
 
 <br/><br/>
 
@@ -21,9 +21,9 @@
 </div>
 <br/>
 
-## - 🔭 I’m currently working on: **developing a pathfinder website equipped with multiple algorithms to efficiently find the optimal route between two nodes, aiming to empower users with a deeper understanding of these algorithms**
+- 🔭 I’m currently working on: **developing a pathfinder website equipped with multiple algorithms to efficiently find the optimal route between two nodes, aiming to empower users with a deeper understanding of these algorithms**
 
-## - 🌱 I’m currently learning: **Vue.js | Node.js | SQL | Java | AWS**
+- 🌱 I’m currently learning: **Vue.js | Node.js | SQL | Java | AWS**
 
 
 <div align="center">
@@ -31,11 +31,11 @@
 </div>
 
 
-## - 💬 Ask me about: **Software Development | Football | Gaming | Music**
+- 💬 Ask me about: **Software Development | Football | Gaming | Music**
 
-## - 🤓 Active User at: **GitHub | LinkedIn**
+- 🤓 Active User at: **GitHub | LinkedIn**
 
-## - 📫 How to reach me:
+- 📫 How to reach me:
 
     * [**Drop a Mail**](mailto:shivampatel6808@gmail.com)
 
@@ -47,7 +47,7 @@
 <img src="./connected.gif" alt="Shivam Patel" width="350" height="200" />
 </div>
 
-## - ⚡ Fun Facts: 
+- ⚡ Fun Facts: 
     * *I think I have surprisingly good social skills for a software dev — I can debug code and awkward conversations with equal finesse! 💻😅*
     * *When I'm not busy coding or watching football, I love surprising my family with new culinary creations in the kitchen, turning ordinary meals into memorable feasts!🍳👨‍🍳*
     
