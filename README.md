@@ -47,6 +47,8 @@
 <img src="./connected.gif" alt="Shivam Patel" width="350" height="200" />
 </div>
 
+<br/>
+
 - ⚡ Fun Facts: 
     * *I think I have surprisingly good social skills for a software dev — I can debug code and awkward conversations with equal finesse! 💻😅*
     * *When I'm not busy coding or watching football, I love surprising my family with new culinary creations in the kitchen, turning ordinary meals into memorable feasts!🍳👨‍🍳*
