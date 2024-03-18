@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shivam Patel</h1>
 <h3 align="center">An innovative software developer proficient in multiple languages, hailing from Dallas, TX.</h3>
 
-- 🌱 I’m currently learning **Vue.js, Node.js and MongoDB**
+- 🌱 I’m currently learning: **Vue.js, Node.js and MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://shivamp.vercel.app/](https://shivamp.vercel.app/)
+- 👨‍💻 All of my projects are available at: [https://shivamp.vercel.app/](https://shivamp.vercel.app/)
 
-- 💬 Ask me about **React.js, Python and JavaScript**
+- 💬 Ask me about: **React.js, Python and JavaScript**
 
-- 📫 How to reach me **shivampatel6808@gmail.com**
+- 📫 How to reach me: **shivampatel6808@gmail.com**
 
-- ⚡ Fun fact **I think I have surprisingly good social skills for a software dev — I can debug code and awkward conversations with equal finesse! 💻😅**
+- ⚡ Fun fact: **I think I have surprisingly good social skills for a software dev — I can debug code and awkward conversations with equal finesse! 💻😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
