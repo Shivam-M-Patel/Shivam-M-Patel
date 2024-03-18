@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shivampatel6808@gmail.com**
 
-- ⚡ Fun fact **I think I have surprisingly good social skills for a software dev—I can debug code and awkward conversations with equal finesse! 💻😅**
+- ⚡ Fun fact **I think I have surprisingly good social skills for a software dev — I can debug code and awkward conversations with equal finesse! 💻😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
