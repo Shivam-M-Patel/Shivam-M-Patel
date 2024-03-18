@@ -6,7 +6,7 @@
 
 <br/>
 <div align="center">
-<img src="./test.gif" alt="Shivam Patel Typer/>
+<img src="./screen.gif" alt="Shivam Patel Typer/>
 </div>
 <br/>
 
