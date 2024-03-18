@@ -6,7 +6,7 @@
 
 <br/>
 <div align="center">
-<img src="./screen.gif" alt="Shivam Patel Typer" />
+<img src="./screen1.gif" alt="Shivam Patel Typer" width="250" height="200"/>
 </div>
 <br/>
 
@@ -48,6 +48,6 @@
 </div>
 
 - ⚡ Fun Facts: 
-
-    **I think I have surprisingly good social skills for a software dev — I can debug code and awkward conversations with equal finesse! 💻😅**
+    * *I think I have surprisingly good social skills for a software dev — I can debug code and awkward conversations with equal finesse! 💻😅*
+    * *When I'm not busy coding or watching football, I love surprising my family with new culinary creations in the kitchen, turning ordinary meals into memorable feasts!🍳👨‍🍳*
     
